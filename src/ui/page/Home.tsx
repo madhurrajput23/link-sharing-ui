@@ -1,4 +1,4 @@
-import { Header } from "@/components";
+import { Header } from "../components";
 import { useGlobal } from "../../services/context/index";
 import { useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
